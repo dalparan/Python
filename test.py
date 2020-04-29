@@ -1,1 +1,9 @@
 print("abcd")
+print(12345)
+a=12
+b=456
+print(a+b)
+c="abc"
+d="def"
+print(c,d)
+print(c+d)
