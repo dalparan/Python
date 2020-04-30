@@ -7,4 +7,3 @@ c="abc"
 d="def"
 print(c,d)
 print(c+d)
-123
