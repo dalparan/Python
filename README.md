@@ -1,4 +1,2 @@
 # Python
-Repository For Python
-
-Just for study python!!
+Repository For Python sources
